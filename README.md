@@ -4,8 +4,11 @@
 
 ## Software Tools
  Editing the dictionaries is best done in a text editor such as Vim. 
+ 
  To install Vim on Ubuntu: `sudo apt install vim` 
+ 
  For Windows: 'http://www.vim.org/download.php' 
+ 
 
 ## Demo Task: Sample Actor Addition (Adding Trump to Dictionary)
   _A new actor "Donald Trump" needs to needs to be added to the dictionary._ 
