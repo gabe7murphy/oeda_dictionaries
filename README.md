@@ -102,7 +102,7 @@ Use YYMMDD format for the years in which the actor filled the role
         ],
         ### START COMMENT KEY
 ```
-### Step 4. Creating the "comments" key value pair
+### Step 5. Creating the "comments" key value pair
 Some Actors have comments with special information that goes with each actor name or alias that cannot be displayed in the previous key pairs 
 
 
