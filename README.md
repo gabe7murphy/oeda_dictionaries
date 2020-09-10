@@ -13,7 +13,7 @@
 ## Demo Task: Sample Actor Addition (Adding Trump to Dictionary)
   _A new actor "Donald Trump" needs to needs to be added to the dictionary._ 
 
-### Step 1. Use search tool to find the actor's predecessor or if none, find category to which the actor belongs 
+### Step 1. Use search tool in the editor (Crtl-f) to find the actor's predecessor or if none, find category to which the actor belongs 
 
 ```C++
 {
