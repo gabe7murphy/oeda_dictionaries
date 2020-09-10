@@ -76,6 +76,7 @@
 ### Step 4. Creating the "code" key value pair
 To designate proper codes, use the CAMEO Actor Codebook starting at Chapter 3, page 80 (page 96 of pdf)
 [CAMEO CODEBOOK](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
+
 Use YYMMDD format for the years in which the actor filled the role
 
 ```C++
